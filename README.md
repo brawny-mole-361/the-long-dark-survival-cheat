@@ -47,4 +47,3 @@ The button and cover open the project's download page. Use the information suppl
 ---
 
 The Long Dark Survival Toolkit · Program documentation and download information.
-                                                                                                    
